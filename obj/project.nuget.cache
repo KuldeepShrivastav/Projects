@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aj0bfdnHk8OXRsNdC22iCKsRkFI8FoLbAruruAEewfEKXxV8P/EpogT/m65Lp4RDhEK+lkIPYjMypl+BWWpaCA==",
+  "success": true,
+  "projectFilePath": "C:\\Self_Learning\\DotnetCore3.1\\WebApplication1\\WebApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kshrivastav\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
